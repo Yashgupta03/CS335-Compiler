@@ -1,0 +1,12 @@
+name,lineno,type,size,args,access_specifier,dims,flag,offset
+----Symbtab for scope 0/1/2----
+a,6,int,4,args,1,0,0,12
+a1,3,int,4,args,1,0,0,0
+b,7,int,4,args,1,0,0,16
+b1,4,int,4,args,1,0,0,4
+c,8,int,4,args,1,0,0,20
+c1,5,int,4,args,1,0,0,8
+yr,3,int,4,args,1,0,1,0
+
+----DONE----
+

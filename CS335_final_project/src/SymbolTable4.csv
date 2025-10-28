@@ -1,0 +1,10 @@
+name,lineno,type,size,args,access_specifier,dims,flag,offset
+----Symbtab for scope 0/1/4----
+args,17,String,0,args,1,0,1,0
+c,19,int,4,args,1,0,0,8
+day,20,int,4,args,1,0,0,12
+num,17,int,4,args,1,0,0,0
+yr,18,int,4,args,1,0,0,4
+
+----DONE----
+
